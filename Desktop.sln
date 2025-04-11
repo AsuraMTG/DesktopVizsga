@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vizsga Console App", "Vizsga Console App\Vizsga Console App.csproj", "{8ECF5806-873F-4BA8-9653-CE1F12426503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grefikusasztali", "grefikusasztali\grefikusasztali.csproj", "{76DD499C-1DEA-4F2A-A86D-EC08246B5356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECF5806-873F-4BA8-9653-CE1F12426503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECF5806-873F-4BA8-9653-CE1F12426503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECF5806-873F-4BA8-9653-CE1F12426503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECF5806-873F-4BA8-9653-CE1F12426503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DD499C-1DEA-4F2A-A86D-EC08246B5356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DD499C-1DEA-4F2A-A86D-EC08246B5356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DD499C-1DEA-4F2A-A86D-EC08246B5356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DD499C-1DEA-4F2A-A86D-EC08246B5356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF35B6B0-6468-4CE6-946A-77DAA2F346D1}
+	EndGlobalSection
+EndGlobal
